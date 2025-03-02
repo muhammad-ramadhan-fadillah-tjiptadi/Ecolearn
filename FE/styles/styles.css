@@ -13,12 +13,12 @@
 /* Mengatur posisi tombol agar tidak terlalu dekat dengan tepi */
 .carousel-control-prev {
     left: 20px;
-    top: 150px;
+    top: 190px;
 }
 
 .carousel-control-next {
     right: 20px;
-    top: 150px;
+    top: 190px;
 }
 
 /* Efek hover pada tombol */
